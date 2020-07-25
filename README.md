@@ -1,4 +1,4 @@
-![Title Splash](peterdsharpe/assets/AcadiaEdited.jpg)
+![Title Splash](https://github.com/peterdsharpe/peterdsharpe/raw/master/assets/AcadiaEdited.jpg)
 
 
 -----
