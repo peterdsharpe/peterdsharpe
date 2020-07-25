@@ -1,4 +1,4 @@
-![Title Splash](assets/AcadiaEdited.jpg)
+![Title Splash](peterdsharpe/assets/AcadiaEdited.jpg)
 
 
 -----
