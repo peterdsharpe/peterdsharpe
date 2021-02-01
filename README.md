@@ -10,7 +10,7 @@ I research new optimization techniques that allow us to quickly solve challengin
 * Most of my optimization research focuses on enabling rapid, interactive design through automatic differentiation and "simultaneous analysis and design" (SAND) methods. Both of these require you to "get inside of the black box" of solvers, and the payoff is that design optimization of highly-coupled systems becomes many orders of magnitude faster.
 * Generally, my work focuses on "wide" rather than "deep" design optimization: when designing complex engineering systems, I believe it's usually more important to capture rough design trade-offs across dozens of subsystems, rather than precisely analyzing just one or two disciplines. Using surrogate modeling techniques based on data from high-fidelity analysis, we can retain both high speed and high fidelity.
 
-I also do a lot of consulting work on the side, usually in the areas of design optimization and data science - email me at pds@mit.edu to discuss opportunities.
+I also do a lot of consulting work on the side, usually in the areas of design optimization and data science - if you have a problem you're interested in, I'd be happy to discuss opportunities at pds@mit.edu.
 
 Welcome to my GitHub! Come in. Have some tea. Stay a while.
 
