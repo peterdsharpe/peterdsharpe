@@ -3,9 +3,14 @@
 
 -----
 
-Hello there! My name is Peter Sharpe, and I'm a graduate student at MIT AeroAstro studying aircraft design, multidisciplinary design optimization (MDO), and applied aerodynamics. 
+Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a PhD Candidate at [MIT AeroAstro](https://aeroastro.mit.edu/) studying aircraft design, multidisciplinary design optimization (MDO), and applied aerodynamics. :rocket:
 
-I research new optimization techniques that allow us to solve challenging real-world engineering problems.
+I research new optimization techniques that allow us to quickly solve challenging real-world engineering problems. Some general ideas in my work:
+* I'm a strong advocate of "interactive design" - *design optimization must be a human, exploratory process rather than an automated, turn-key solution*. Unfortunately, most modern design optimization tools at an acceptable level of modeling fidelity are too slow for interactive use.
+* Most of my optimization research focuses on enabling rapid, interactive design through automatic differentiation and "simultaneous analysis and design" (SAND) methods. Both of these require you to "get inside of the black box" of solvers, and the payoff is that design optimization of highly-coupled systems becomes many orders of magnitude more tractable.
+* Generally, my work focuses on "wide" rather than "deep" design optimization: when designing complex engineering systems, I believe it's usually more important to capture rough design trade-offs across dozens of subsystems, rather than precisely analyzing just one or two disciplines. Using surrogate modeling techniques based on data from high-fidelity analysis, we can retain both high speed and high fidelity.
+
+I also do a lot of consulting work on the side, usually in the areas of design optimization and data science - email me at pds@mit.edu to discuss opportunities.
 
 Welcome to my GitHub! Come in. Have some tea. Stay a while.
 
