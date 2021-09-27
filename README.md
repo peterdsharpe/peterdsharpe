@@ -2,7 +2,7 @@
 
 -----
 
-Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a PhD Candidate at [MIT AeroAstro](https://aeroastro.mit.edu/) studying aircraft design, multidisciplinary design optimization (MDO), and computational aerodynamics. :rocket:
+Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a PhD Candidate at [MIT AeroAstro](https://aeroastro.mit.edu/) studying aircraft design, multidisciplinary design optimization (MDO), and computational aerodynamics. :rocket: :airplane:
 
 I research new optimization techniques that allow us to quickly solve challenging real-world engineering problems. Some general ideas in my work:
 * I'm a strong advocate of "interactive design" - *design optimization must be an exploratory process with a human at the wheel*, because 90% of design is asking the right question. Unfortunately, many traditional design optimization tools ("black-box optimizers") at an acceptable level of modeling fidelity are too slow for interactive use - an optimizer that takes hours, days, or weeks to run is generally not very useful.
