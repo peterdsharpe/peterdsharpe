@@ -19,7 +19,7 @@ Welcome to my GitHub! Come in. Have some tea. Stay a while.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterdsharpe&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML,jupyter%20notebook&layout=compact" />
 </a>
 
 -----
