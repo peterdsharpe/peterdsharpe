@@ -14,13 +14,8 @@ I also do a lot of consulting work on the side, usually in the areas of design o
 Welcome to my GitHub! Come in. Have some tea. Stay a while.
 
 -----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterdsharpe&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML,jupyter%20notebook&layout=compact" />
-</a>
+![stats](https://github-readme-stats.vercel.app/api?username=peterdsharpe&show_icons=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML,CSS,SCSS,jupyter%20notebook,g-code&layout=compact)
 
 -----
 Note:
