@@ -15,7 +15,7 @@ Welcome to my GitHub! Come in. Have some tea. Stay a while.
 
 -----
 ![stats](https://github-readme-stats.vercel.app/api?username=peterdsharpe&show_icons=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML,CSS,SCSS,jupyter%20notebook,g-code&layout=compact)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterdsharpe&hide=HTML,CSS,SCSS,TeX,jupyter%20notebook,g-code&layout=compact)
 
 -----
 Note:
