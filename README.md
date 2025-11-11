@@ -2,7 +2,9 @@
 
 -----
 
-Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a researcher/engineer at [NVIDIA](https://www.nvidia.com/). There, I develop new techniques for modeling physical systems governed by [partial differential equations (PDEs)](https://en.wikipedia.org/wiki/Partial_differential_equation), such as [aerodynamics, weather forecasting, heat transfer, structures, etc.](https://developer.nvidia.com/physicsnemo), using combinations of classical and machine learning (ML) methods. 
+Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a researcher/engineer at [NVIDIA](https://www.nvidia.com/). :computer::atom::ocean::tornado:🍃 
+
+There, I develop new techniques for modeling physical systems governed by [partial differential equations (PDEs)](https://en.wikipedia.org/wiki/Partial_differential_equation), such as [aerodynamics, weather forecasting, heat transfer, structures, etc.](https://developer.nvidia.com/physicsnemo), using combinations of classical and machine learning (ML) methods. 
 
 * My current research develops new ML model architectures that respect symmetries of physics (e.g., translation-, rotation-, and parity-equivariance; invariants like energy/momentum; discretization- and units-invariance) and PDE information flow (e.g., global information propagation for elliptic PDEs). I think incorporating these physics-based pieces into ML model architectures is (a) critical to achieve industrially- and scientifically-relevant levels of generalization capability, and (b) chronically under-emphasized in most existing approaches to ML for PDEs.
 
