@@ -2,7 +2,7 @@
 
 -----
 
-Hello there! My name is [Peter Sharpe](http://peterdsharpe.github.io/), and I'm a researcher/engineer at [NVIDIA](https://www.nvidia.com/). :computer::atom::ocean::tornado:🍃 
+Hello there! My name is [Peter Sharpe](https://www.linkedin.com/in/peterdsharpe/), and I'm a researcher/engineer at [NVIDIA](https://www.nvidia.com/). :computer::atom::ocean::tornado:🍃 
 
 There, I develop new techniques for modeling physical systems governed by [partial differential equations (PDEs)](https://en.wikipedia.org/wiki/Partial_differential_equation), such as [aerodynamics, weather forecasting, heat transfer, structures, etc.](https://developer.nvidia.com/physicsnemo), using combinations of classical and machine learning (ML) methods. 
 
