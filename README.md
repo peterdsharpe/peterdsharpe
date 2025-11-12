@@ -8,6 +8,8 @@ There, I develop new techniques for modeling physical systems governed by [parti
 
 * My current research develops new ML model architectures that respect [symmetries of physics](https://en.wikipedia.org/wiki/Symmetry_(physics)) (e.g., translation-, rotation-, and parity-equivariance; invariants like energy/momentum; discretization- and units-invariance) and PDE information flow (e.g., global information propagation for elliptic PDEs). I think incorporating these physics-based pieces into ML model architectures is (a) critical to achieve industrially- and scientifically-relevant levels of generalization capability, and (b) chronically under-emphasized in most existing approaches to ML for PDEs.
 
+More broadly, I'm interested in any and all things scientific computing and applied math!
+
 -----
 
 Before that, I was a PhD Candidate at [MIT AeroAstro](https://aeroastro.mit.edu/) studying aircraft design, multidisciplinary design optimization (MDO), and computational aerodynamics. :rocket::airplane:🚁 
