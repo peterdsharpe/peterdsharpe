@@ -21,8 +21,6 @@ I did [my PhD research](https://dspace.mit.edu/handle/1721.1/157809) on developi
 
 -----
 
-I do consulting work on the side, usually in the areas of aircraft design optimization and scientific machine learning - if you have a problem you're interested in solving, I'd be happy to chat at pds@mit.edu.
-
 Welcome to my GitHub! Come in. Have some tea. Stay a while.
 
 -----
