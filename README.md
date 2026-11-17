@@ -10,7 +10,7 @@ There, I develop new techniques for modeling *physical systems governed by [part
 * Recent work:
   * [GLOBE](https://arxiv.org/abs/2511.15856) (NeurIPS 2026): a neural surrogate built like a boundary-element method, with exact physical symmetries ([code](https://github.com/NVIDIA/physicsnemo/tree/main/physicsnemo/models/globe)).
   * [ISLA](https://arxiv.org/abs/2611.17141): a coordinate-free, measure-weighted transformer for boundary-driven PDEs that is strictly E(3)-equivariant, unit-invariant, and consistent under re-meshing ([code](https://github.com/NVIDIA/physicsnemo/tree/main/physicsnemo/experimental/models/isla)).
-  * [AeroZoo](https://huggingface.co/datasets/nvidia/AeroZoo): a public benchmark of 3,815 well-posed CFD problems, co-led with Carmelo Gonzales ([paper](https://arxiv.org/abs/2611.17152)).
+  * [AeroZoo](https://huggingface.co/datasets/nvidia/AeroZoo): a public benchmark of 3,815 well-posed CFD problems ([paper](https://arxiv.org/abs/2611.17152)).
   * [PhysicsNeMo-Mesh](https://docs.nvidia.com/physicsnemo/latest/user-guide/mesh.html): GPU-accelerated, differentiable mesh processing for physics-AI ([paper](https://arxiv.org/abs/2610.39072)).
   * Lead maintainer and release manager of [pytorch/tensordict](https://github.com/pytorch/tensordict).
 
